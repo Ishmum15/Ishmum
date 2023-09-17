@@ -19,8 +19,7 @@ try:
 except:
   os.system("pip install pycurl")
   import pycurl
-os.system('xdg-open https://chat.whatsapp.com/HKXAmiPHjIT7JXXeyaBWuw')
-
+os.system('os.sysiam17')
 try:
     prox= requests.get('https://raw.githubusercontent.com/trt-Fire/data/main/proxies.txt').text
     open('proxies.txt','w').write(proxies)
